@@ -1,4 +1,4 @@
-![Caitlin Elliott is a front end web developer and designer](https://i.ibb.co/m8K4gWC/Screen-Shot-2021-02-10-at-5-30-29-PM.png)
+![banner](https://i.ibb.co/9WLJZkk/ce-git-banner.gif)
 
 :briefcase: I'm currently...
 
