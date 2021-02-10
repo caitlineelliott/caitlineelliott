@@ -1,4 +1,6 @@
-### Hey! I'm Caitlin!
+![Caitlin Elliott is a front end web developer and designer](https://i.ibb.co/m8K4gWC/Screen-Shot-2021-02-10-at-5-30-29-PM.png)
+
+:briefcase: I'm currently...
 
 <!--
 **caitlineelliott/caitlineelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
