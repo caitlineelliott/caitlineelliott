@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/9WLJZkk/ce-git-banner.gif)
+![banner](https://i.ibb.co/Jst3RkM/Add-a-heading-4.png)
 
 :briefcase: I'm currently...
 
