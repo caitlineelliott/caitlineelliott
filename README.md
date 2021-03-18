@@ -2,7 +2,7 @@
 
 I'm a web developer and designer who is dedicated to working directly with others giving me the ability to thrive on complexity and a hunger to dive deep into someone's needs. 
 
-:briefcase: I'm currently finishing up the Frontend Web Developer Nanodegree at Udacity
+:briefcase: I'm currently: finishing up the Frontend Web Developer Nanodegree at Udacity
 
 <!--
 **caitlineelliott/caitlineelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
