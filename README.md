@@ -1,8 +1,10 @@
 ![banner](https://i.ibb.co/Jst3RkM/Add-a-heading-4.png)
 
-I'm a web developer and designer who is dedicated to working directly with others giving me the ability to thrive on complexity and a hunger to dive deep into someone's needs. 
+I'm a web developer and designer who thrives on complexity and working directly with others to meet their needs.
 
-:briefcase: I'm currently: finishing up the Frontend Web Developer Nanodegree at Udacity
+I'm currently: 
+- :briefcase: Finishing up the Frontend Web Developer Nanodegree at Udacity
+- :briefcase: Designing, Developing, + Managing for [Wander On](www.letswanderon.com)
 
 <!--
 **caitlineelliott/caitlineelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
