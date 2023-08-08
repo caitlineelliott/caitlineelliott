@@ -1,4 +1,6 @@
-![banner](https://i.ibb.co/Qv5Gbj6/Add-a-heading-5.png)
+# CAITLIN ELLIOTT
+
+![banner](https://i.ibb.co/0ndBgBG/XV8A5355.jpg)
 
 Application Engineer | Web Developer | React Native | AngularJS | HTML | CSS
 
