@@ -1,13 +1,18 @@
 ![banner](https://i.ibb.co/Qv5Gbj6/Add-a-heading-5.png)
 
+Application Engineer | Web Developer | React Native | AngularJS | HTML | CSS
+
 ## Bio
-I’ve been dabbling with making fun stuff on the internet since I wrote some simple HTML and CSS for my first website when I was thirteen years old. I didn’t have much to put on it since I was, well, thirteen, so the content mostly consisted of how much I loved Legolas from Lord of the Rings.
+I'm a detail-oriented Application Engineer with a passion for solving complex problems and working cross functionally to serve users well. With a strong background in web design and development, I thrive on developing user-friendly applications that make a positive impact.
 
-From there, I moved on to customizing my MySpace profile and Neopets page, as well as editing tumblr and WordPress themes. In college, I was a wedding photographer and created my own branding package and website. I remember thinking “I should start a blog!” at various points, only to get more excited about designing and coding the site than actually writing posts.
+💼 Application Engineer at Alto 💼
+As an Application Engineer at Alto, I played a key role in enhancing the Driver App (React Native) used by over 2,000 drivers, facilitating seamless passenger transportation. Notable projects I was a part of include implementing in-app navigation to replace external map applications and conducting a UI overhaul that adhered to driving safety and accessibility standards. Additionally, I contributed to the operations portal (Angular JavaScript) by creating valuable business tools, such as an automated scheduling dashboard for operations managers and feature updates for fleet managers. I also played an integral role in onboarding new team members, providing mentorship, and facilitating their seamless integration into our dynamic work environment.
 
-Despite my almost 20 years of experience with web design and development as a hobby, I had never previously pursued it as a career. However, the past couple of years showed me it was time for a change, and I’m excited to begin my journey into this realm professionally.
+🚀 Self Employed Web Designer, Developer, Manager 🚀
+During my self-employed journey, I honed my creative and technical skills as a versatile Web Designer, Developer, and Manager. My expertise in HTML, CSS, and JavaScript allowed me to design captivating websites and tailor webpage layouts to meet the unique needs of my clients. I crafted custom graphics and branding elements in Adobe Illustrator and Canva, while ensuring a seamless e-commerce experience for my clients' customers. I actively contributed to brand creation by designing logos, selecting color palettes, and pairing fonts for a distinctive brand identity. As a wordsmith, I skillfully wrote, updated, and maintained website copy to engage users and communicate the brand's value proposition effectively.
 
-In September 2021, I graduated from Udacity’s Front End Web Developer Nanodegree, and I’m ready to find an organization to partner with. Take a look at my [portfolio](https://caitlinelliott.com/portfolio) and [contact me](https://caitlinelliott.com/contact) if you think I would be a good fit for you!
+🌟 Let's Connect! 🌟
+I am currently looking for new opportunities to contribute my expertise and passion for user-first application and web development. Let's connect and explore how we can work together! Please email me at ceelliott90@gmail.com to start the conversation.
 
 <!--
 **caitlineelliott/caitlineelliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
