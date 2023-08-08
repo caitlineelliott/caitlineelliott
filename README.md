@@ -1,9 +1,3 @@
-# CAITLIN ELLIOTT
-
-![banner](https://i.ibb.co/0ndBgBG/XV8A5355.jpg)
-
-Application Engineer | Web Developer | React Native | AngularJS | HTML | CSS
-
 ## Bio
 I'm a detail-oriented Application Engineer with a passion for solving complex problems and working cross functionally to serve users well. With a strong background in web design and development, I thrive on developing user-friendly applications that make a positive impact.
 
