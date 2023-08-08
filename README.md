@@ -1,9 +1,5 @@
 ![banner](https://i.ibb.co/Qv5Gbj6/Add-a-heading-5.png)
 
-I'm currently: 
-- :briefcase: Designing, Developing, + Managing for freelance clients
-- :briefcase: Looking for full time, traditional employment
-
 ## Bio
 I’ve been dabbling with making fun stuff on the internet since I wrote some simple HTML and CSS for my first website when I was thirteen years old. I didn’t have much to put on it since I was, well, thirteen, so the content mostly consisted of how much I loved Legolas from Lord of the Rings.
 
